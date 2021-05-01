@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Siddhant 👋
+
+🔭 I’m currently working with Juspay where I build UI Frameworks and maintain a smart API aggreagation project in purely functional languages i.e. Purescript and Haskell. 
 
 <!--
 **siddhant-curious/siddhant-curious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
